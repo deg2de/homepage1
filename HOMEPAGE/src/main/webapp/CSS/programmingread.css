@@ -1,0 +1,393 @@
+@CHARSET "UTF-8";
+#programmingread
+{
+	width : 1048px;
+	height: auto;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+#programmingread_maintext
+{
+	width: 1048px;
+	height: 200px;
+
+	font-size : 100px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+	line-height : 200px;
+}
+
+#programmingread_setumei
+{
+	width : 994px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 25px;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#programmingread_setumei_listno
+{
+	width : 50px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	color: white;
+	font-size: 15px;
+	float: left;
+	text-align: center;
+	line-height : 25px;
+}
+
+#programmingread_setumei_userid
+{
+	width : 100px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	color: white;
+	font-size: 15px;
+	float: left;
+	text-align: center;
+	line-height : 25px;
+}
+
+#programmingread_setumei_type
+{
+	width : 80px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	color: white;
+	font-size: 15px;
+	float: left;
+	text-align: center;
+	line-height : 25px;
+}
+
+#programmingread_setumei_title
+{
+	width : 544px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	color: white;
+	font-size: 15px;
+	float: left;
+	text-align: center;
+	line-height : 25px;
+}
+
+#programmingread_setumei_date
+{
+	width : 120px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	color: white;
+	font-size: 15px;
+	float: left;
+	text-align: center;
+	line-height : 25px;
+}
+
+#programmingread_setumei_count
+{
+	width : 100px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	color: white;
+	font-size: 15px;
+	float: left;
+	text-align: center;
+	line-height : 25px;
+}
+
+#programmingread_title
+{
+	width : 994px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 35px;
+}
+
+#programmingread_title_listno
+{
+	width : 50px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size: 13px;
+	float: left;
+	text-align: center;
+	line-height : 35px;
+}
+
+#programmingread_title_userid
+{
+	width : 100px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size: 13px;
+	float: left;
+	text-align: center;
+	line-height : 35px;
+}
+
+#programmingread_title_type
+{
+	width : 80px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size: 13px;
+	float: left;
+	text-align: center;
+	line-height : 35px;
+}
+
+#programmingread_title_title
+{
+	width : 544px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	color: #880015;
+	font-size: 20px;
+	float: left;
+	text-align: center;
+	line-height : 40px;
+}
+
+#programmingread_title_date
+{
+	width : 120px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size: 13px;
+	float: left;
+	text-align: center;
+	line-height : 35px;
+}
+
+#programmingread_title_count
+{
+	width : 100px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size: 13px;
+	float: left;
+	text-align: center;
+	line-height : 35px;
+}
+
+#programmingread_upbutton
+{
+	width : 994px;
+	height: 35px;
+	margin : 0;
+	margin-top : 5px;
+	margin-left : auto;
+	margin-right : auto;
+	padding-right : 10px;
+
+	text-align: center;
+	line-height : 35px;
+
+	background-color: white;
+}
+
+#programmingread_upbutton_delete
+{
+	width : 80px;
+	height: 25px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #F8F0BC;
+
+	float: right;
+	font-size : 20px;
+	color : #880015;
+	text-align: center;
+	line-height : 20px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #F8F0BC;
+}
+
+#programmingread_upbutton_update
+{
+	width : 80px;
+	height: 25px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #F8F0BC;
+
+	float: right;
+	font-size : 20px;
+	color : #880015;
+	text-align: center;
+	line-height : 20px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #F8F0BC;
+}
+
+#programmingread_upbutton_list
+{
+	width : 80px;
+	height: 25px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #F8F0BC;
+
+	float: right;
+	font-size : 20px;
+	color : #880015;
+	text-align: center;
+	line-height : 20px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #F8F0BC;
+}
+
+#programmingread_text
+{
+	width : 994px;
+	height: auto;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 35px;
+}
+
+#programmingread_text_block
+{
+	width : 900px;
+	height: auto;
+	margin : 0;
+	margin-top : 10px;
+	margin-left : auto;
+	margin-right : auto;
+	margin-bottom : 100px;
+
+	text-align: left;
+	line-height : 35px;
+}
+
+#programmingread_text_block_imgblock
+{
+	width : 900px;
+	height: 450px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+#programmingread_text_block_img
+{
+	width : 800px;
+	height: 450px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+#programmingread_downbutton
+{
+	width : 994px;
+	height: 25px;
+	margin : 0;
+	margin-top : 5px;
+	margin-left : auto;
+	margin-right : auto;
+	padding-right : 10px;
+
+	background-color: #880015;
+}
+
+#programmingread_downbutton_list
+{
+	width : 80px;
+	height: 25px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #F8F0BC;
+
+	float: right;
+	font-size : 20px;
+	color : #880015;
+	text-align: center;
+	line-height : 20px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #F8F0BC;
+}

@@ -1,0 +1,206 @@
+@CHARSET "UTF-8";
+#musicwrite
+{
+	width : 1048px;
+	height: auto;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+#musicwrite_maintext
+{
+	width: 1048px;
+	height: 200px;
+
+	font-size : 100px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+	line-height : 200px;
+}
+
+#musicwrite_title
+{
+	width : 994px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 25px;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#musicwrite_title_titletext
+{
+	width : 100px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	float: left;
+
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	line-height : 35px;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+#musicwrite_title_type
+{
+	width : 150px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : 2px;
+	float: left;
+}
+
+#write_type
+{
+	width : 150px;
+	height: 30px;
+	margin : 0;
+	margin-top : 2px;
+	margin-left : auto;
+	margin-right : auto;
+	float: left;
+
+	border-color: #880015;
+
+	font-size: 17px;
+	color: black;
+	text-align: center;
+	line-height : 30px;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+
+	background-color: white;
+}
+
+#musicwrite_title_title
+{
+	width : 698px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : 44px;
+	float: left;
+}
+
+#musicwrite_title_titleinput
+{
+	width : 698px;
+	height: 25px;
+	margin : 0;
+	margin-top : 2px;
+	margin-left : auto;
+	float: left;
+
+	border-color: #880015;
+
+	font-size: 17px;
+	color: black;
+	text-align: left;
+	line-height : 15px;
+
+	background-color: white;
+}
+
+#musicwrite_description
+{
+	width : 994px;
+	height: 800px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	background-color: #F8F0BC;
+}
+
+#write_description
+{
+	width : 900px;
+	height: 600px;
+	margin : 0;
+	margin-left : 44px;
+	margin-right : 44px;
+	margin-top : 10px;
+
+	border-color: #880015;
+
+	background-color: white;
+}
+
+#musicwrite_pic
+{
+	width : 900px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+#write_pic
+{
+	width : 800px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	margin-top : 5px;
+
+	font-size : 15px;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+	text-align: center;
+
+
+	background-color: white;
+	border-color: #880015;
+}
+
+#musicwrite_downbutton
+{
+	width : 994px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+#okbutton
+{
+	width : 100px;
+	height: 30px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : 20px;
+	float : right;
+
+	font-size : 15px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+	text-align: center;
+
+
+	background-color: #880015;
+	border-color: #880015;
+}

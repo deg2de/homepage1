@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:mvn="http://www.springframework.org/schema/mvc"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/mvc
+		http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+	<bean class="com.leesungbok.controller.Main_Ctl" />
+	<bean class="com.leesungbok.controller.LoginCheck_Ctl" />
+	<bean class="com.leesungbok.controller.UserCreate_Ctl" />
+	<bean class="com.leesungbok.controller.UserSearch_Ctl" />
+	<bean class="com.leesungbok.controller.UserUpdate_Ctl" />
+	<bean class="com.leesungbok.controller.UserUpdateCheck_Ctl" />
+	<bean class="com.leesungbok.controller.Logout_Ctl" />
+	<bean class="com.leesungbok.controller.ProgrammingList_Ctl" />
+	<bean class="com.leesungbok.controller.ProgrammingRead_Ctl" />
+	<bean class="com.leesungbok.controller.ProgrammingDelete_Ctl" />
+	<bean class="com.leesungbok.controller.ProgrammingWrite_Ctl" />
+	<bean class="com.leesungbok.controller.ProgrammingUpdate_Ctl" />
+	<bean class="com.leesungbok.controller.TravelList_Ctl" />
+	<bean class="com.leesungbok.controller.TravelRead_Ctl" />
+	<bean class="com.leesungbok.controller.TravelDelete_Ctl" />
+	<bean class="com.leesungbok.controller.TravelWrite_Ctl" />
+	<bean class="com.leesungbok.controller.TravelUpdate_Ctl" />
+	<bean class="com.leesungbok.controller.MusicList_Ctl" />
+	<bean class="com.leesungbok.controller.MusicRead_Ctl" />
+	<bean class="com.leesungbok.controller.MusicDelete_Ctl" />
+	<bean class="com.leesungbok.controller.MusicWrite_Ctl" />
+	<bean class="com.leesungbok.controller.MusicUpdate_Ctl" />
+	<bean class="com.leesungbok.controller.OtherList_Ctl" />
+	<bean class="com.leesungbok.controller.OtherRead_Ctl" />
+	<bean class="com.leesungbok.controller.OtherDelete_Ctl" />
+	<bean class="com.leesungbok.controller.OtherWrite_Ctl" />
+	<bean class="com.leesungbok.controller.OtherUpdate_Ctl" />
+
+	<mvn:view-controller path="/" view-name="main"/>
+
+</beans>

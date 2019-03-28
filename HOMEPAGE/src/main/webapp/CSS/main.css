@@ -1,0 +1,81 @@
+@CHARSET "UTF-8";
+#main
+{
+	width : 1048px;
+	height: 700px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #880015;
+}
+
+#alllist
+{
+	width : 950px;
+	height: 620px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	margin-top : 40px;
+	margin-botton : 40px;
+	float: center;
+
+	background: white;
+}
+
+#main_programminglist
+{
+	width : 475px;
+	height: 310px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	float : left;
+}
+
+#main_travellist
+{
+	width : 475px;
+	height: 310px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	float : left;
+
+	background: #F8F5F8;
+}
+#main_musiclist
+{
+	width : 475px;
+	height: 310px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	float : left;
+
+	background: #F8F5F2;
+}
+
+#main_otherlist
+{
+	width : 475px;
+	height: 310px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	float : left;
+
+	background: #F8F0BC;
+}
+
+#downbar
+{
+	width : 1048px;
+	height: 30px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	background : #880015;
+}

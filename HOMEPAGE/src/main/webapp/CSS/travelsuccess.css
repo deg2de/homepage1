@@ -1,0 +1,76 @@
+@CHARSET "UTF-8";
+#travelsuccess
+{
+	width: 1048px;
+	height: 700px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+}
+
+#travelsuccess_maintext
+{
+	width: 1048px;
+	height: 200px;
+
+	font-size : 100px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+	line-height : 200px;
+}
+
+#travelsuccess_text
+{
+	width: 1048px;
+	height: 300px;
+
+	font-size : 30px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+	line-height : 300px;
+}
+
+#travelsuccess_text_listbutton
+{
+	width: 1048px;
+	height: 200px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 200px;
+}
+#travelsuccess_listbutton
+{
+	width: 600px;
+	height: 60px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+
+	font-size : 45px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+
+	border-color : #880015;
+
+	background-color: #880015;
+}

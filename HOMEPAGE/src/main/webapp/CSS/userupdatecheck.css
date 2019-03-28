@@ -1,0 +1,90 @@
+@CHARSET "UTF-8";
+#userupdatecheck
+{
+	width: 1048px;
+	height: 700px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+}
+
+#userupdatecheck_maintext
+{
+	width: 1048px;
+	height: 200px;
+
+	float : center;
+
+	font-size : 100px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+	line-height : 200px;
+}
+
+#userupdatecheck_text
+{
+	width: 1048px;
+	height: 500px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 30px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: left;
+	line-height : 50px;
+}
+
+#userupdatecheck_input
+{
+	width: 350px;
+	height: 35px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : center;
+
+	border-color : #880015;
+
+	font-size : 20px;
+
+	text-align: left;
+	line-height : 35px;
+}
+
+#userupdatecheck_button
+{
+	width: 450px;
+	height: 50px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : center;
+
+	font-size : 35px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+
+	border-color : #880015;
+
+	background-color: #880015;
+}

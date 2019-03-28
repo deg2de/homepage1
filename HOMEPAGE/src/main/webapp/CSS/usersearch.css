@@ -1,0 +1,185 @@
+@CHARSET "UTF-8";
+#usersearch
+{
+	width: 1048px;
+	height: 700px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+}
+
+#usersearch_id_maintext
+{
+	width: 524px;
+	height: 200px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : left;
+
+	font-size : 100px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+	line-height : 200px;
+}
+
+#usersearch_id_text
+{
+	width: 524px;
+	height: 500px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : left;
+
+	font-size : 30px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: left;
+	line-height : 50px;
+}
+
+#usersearch_id_input
+{
+	width: 250px;
+	height: 35px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : center;
+
+	border-color : #880015;
+
+	font-size : 20px;
+
+	text-align: left;
+	line-height : 35px;
+}
+
+#usersearch_id_button
+{
+	width: 320px;
+	height: 50px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : center;
+
+	font-size : 35px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+
+	border-color : #880015;
+
+	background-color: #880015;
+}
+
+#usersearch_pw_maintext
+{
+	width: 524px;
+	height: 200px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : right;
+
+	border-color : #880015;
+
+	font-size : 100px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+	line-height : 200px;
+}
+
+#usersearch_pw_text
+{
+	width: 524px;
+	height: 500px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : right;
+
+	border-color : #880015;
+
+	font-size : 30px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: left;
+	line-height : 50px;
+}
+
+#usersearch_pw_input
+{
+	width: 250px;
+	height: 35px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : center;
+
+	border-color : #880015;
+
+	font-size : 20px;
+
+	text-align: left;
+	line-height : 35px;
+}
+
+#usersearch_pw_button
+{
+	width: 320px;
+	height: 50px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	float : center;
+
+	font-size : 35px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align: center;
+
+	border-color : #880015;
+
+	background-color: #880015;
+}

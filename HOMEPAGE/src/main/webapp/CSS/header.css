@@ -1,0 +1,313 @@
+@CHARSET "UTF-8";
+#wrap
+{
+	width : 1048px;
+	height: 100px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	background-color: white;
+}
+
+#logo-img
+{
+	width : 200px;
+	height : 100px;
+	margin : 0;
+
+	float: left;
+}
+
+#login
+{
+	width : 200px;
+	height : 100px;
+	margin : 0;
+
+	float: right;
+}
+
+#logincheck
+{
+	width : 200px;
+	height : 100px;
+}
+
+#logincheck_input
+{
+	width : 200px;
+	height : 60px;
+
+	float: left;
+
+	margin-top: 5px;
+}
+
+#logincheck_input_text
+{
+	text-align : center;
+
+	font-size : 13px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+}
+
+#logincheck_input_id
+{
+	width: 80px;
+	height: 15px;
+
+	border-color: #880015;
+}
+
+#logincheck_input_pw
+{
+	width: 80px;
+	height: 15px;
+
+	border-color: #880015;
+}
+
+#logincheck_input_button
+{
+	width: 76px;
+	height: 53px;
+
+	font-size : 15px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+
+	border-color : #880015;
+
+	background-color: #880015;
+}
+
+
+#logincheck_newuser
+{
+	width : 100px;
+	height : 30px;
+
+	float: left;
+	margin-bottom : 5px;
+
+	text-align : center;
+	line-height : 30px;
+}
+
+#logincheck_newuser_button
+{
+	width: 100px;
+	height: 25px;
+
+	font-size : 20px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align : center;
+	line-height : 20px;
+
+	border-color : #880015;
+
+	background: #880015;
+}
+
+#logincheck_search
+{
+	width : 100px;
+	height : 30px;
+
+	float: right;
+	margin-bottom : 5px;
+
+	text-align : center;
+	line-height : 30px;
+}
+
+#logincheck_search_button
+{
+	width: 100px;
+	height: 25px;
+
+	font-size : 20px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align : center;
+	line-height : 20px;
+
+	border-color : #880015;
+
+	background: #880015;
+}
+
+
+#loginsuccess
+{
+	width : 200px;
+	height : 100px;
+}
+
+#loginsuccess_message
+{
+	width : 200px;
+	height : 60px;
+
+	float : center;
+
+	text-align : center;
+	line-height : 60px;
+
+	font-size : 13px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+#loginsuccess_update
+{
+	width : 100px;
+	height : 40px;
+
+	float: left;
+
+	text-align : center;
+	line-height : 40px;
+}
+
+#loginsuccess_update_button
+{
+	background-color : #880015;
+
+	border-color : #880015;
+
+	font-size : 15px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+}
+
+#loginsuccess_logout
+{
+	width : 100px;
+	height : 40px;
+
+	float: right;
+
+	text-align : center;
+	line-height : 40px;
+}
+
+#loginsuccess_logout_button
+{
+	background-color : #880015;
+
+	border-color : #880015;
+
+	font-size : 15px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+}
+
+#header_message
+{
+	width : 1048px;
+	height: 25px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align : right;
+	line-height : 25px;
+
+	font-size : 15px;
+	color : #880015;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+#menu
+{
+	width : 1048px;
+	height: 40px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align : left;
+
+
+	border-color: #880015;
+	background: #880015;
+}
+
+#nav
+{
+	width : 1048px;
+	height: 40px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align : center;
+	line-height : 40px;
+
+	font-size : 30px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	list-style: none;
+}
+
+#nav li
+{
+	width : 150px;
+
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align : center;
+	line-height : 40px;
+
+	float : left;
+	position : relative:
+}
+
+#menu_button
+{
+	width: 150px;
+	height: 40px;
+
+	font-size : 15px;
+	color : white;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	text-align : center;
+	line-height : 36px;
+
+	border-color : #880015;
+
+	background: #880015;
+}

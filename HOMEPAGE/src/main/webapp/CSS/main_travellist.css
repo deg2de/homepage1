@@ -1,0 +1,143 @@
+#main_travellist
+{
+	width : 475px;
+	height: 310px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	background: #F8F5F2;
+}
+
+#main_travellist_main
+{
+	width : 454px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	float: center;
+}
+
+#main_travellist_maintext
+{
+	width : 400px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	float: left;
+
+	font-size : 25px;
+	color : #880015;
+	text-align: left;
+	line-height : 35px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+#main_travellist_more
+{
+	width : 54px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+	float: right;
+
+	font-size : 20px;
+	color : black;
+	text-align: left;
+	line-height : 55px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+
+#tablealign
+{
+	width : 454px;
+	height: auto;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+#list_head_title
+{
+	width : 370px;
+	height: 20px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 15px;
+	color : white;
+	text-align: center;
+	line-height : 15px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#list_head_readcount
+{
+	width : 80px;
+	height: 20px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 15px;
+	color : white;
+	text-align: center;
+	line-height : 15px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#travel_list_title
+{
+	width : 370px;
+	height: 20px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 12px;
+	color : black;
+	text-align: left;
+	line-height : 15px;
+
+	background-color: #F8F0BC;
+}
+
+#travel_list_readcount
+{
+	width : 80px;
+	height: 20px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 15px;
+	color : black;
+	text-align: center;
+	line-height : 15px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #F8F0BC;
+}

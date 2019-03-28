@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
+		destroy-method="close">
+		<property name="driverClass" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="jdbcUrl" value="jdbc:oracle:thin:@localhost:1521:XE" />
+		<property name="user" value="Seibiuser" />
+		<property name="password" value="Seibi1234" />
+
+	</bean>
+
+	<bean id="memberDao" class="com.leesungbok.dao.MemberDao">
+		<constructor-arg ref="dataSource" />
+	</bean>
+
+	<bean id="programmingDao" class="com.leesungbok.dao.ProgrammingDao">
+		<constructor-arg ref="dataSource" />
+	</bean>
+
+	<bean id="travelDao" class="com.leesungbok.dao.TravelDao">
+		<constructor-arg ref="dataSource" />
+	</bean>
+
+	<bean id="musicDao" class="com.leesungbok.dao.MusicDao">
+		<constructor-arg ref="dataSource" />
+	</bean>
+
+	<bean id="otherDao" class="com.leesungbok.dao.OtherDao">
+		<constructor-arg ref="dataSource" />
+	</bean>
+
+
+</beans>

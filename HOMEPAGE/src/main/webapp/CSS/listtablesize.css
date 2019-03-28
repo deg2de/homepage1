@@ -1,0 +1,435 @@
+@CHARSET "UTF-8";
+
+#upbutton
+{
+	width : 994px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: right;
+}
+
+#listbutton
+{
+	width : 100px;
+	height: 30px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #880015;
+
+	font-size : 25px;
+	color : #880015;
+	text-align: center;
+	line-height : 25px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: white;
+}
+
+#writebutton
+{
+	width : 100px;
+	height: 30px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #880015;
+
+	font-size : 25px;
+	color : #880015;
+	text-align: center;
+	line-height : 25px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: white;
+}
+
+#tablealign
+{
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+}
+
+#list_head_no
+{
+	width : 50px;
+	height: 30px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 25px;
+	color : white;
+	text-align: center;
+	line-height : 30px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#list_head_type
+{
+	width : 100px;
+	height: 30px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 25px;
+	color : white;
+	text-align: center;
+	line-height : 25px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#list_head_title
+{
+	width : 450px;
+	height: 30px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 25px;
+	color : white;
+	text-align: center;
+	line-height : 25px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#list_head_name
+{
+	width : 100px;
+	height: 30px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 25px;
+	color : white;
+	text-align: center;
+	line-height : 25px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#list_head_date
+{
+	width : 150px;
+	height: 30px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 25px;
+	color : white;
+	text-align: center;
+	line-height : 30px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#list_head_readcount
+{
+	width : 120px;
+	height: 30px;
+	margin : 1;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 25px;
+	color : white;
+	text-align: center;
+	line-height : 30px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#list_no
+{
+	width : 50px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 25px;
+
+	background-color: #F8F0BC;
+}
+
+#list_type
+{
+	width : 100px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 25px;
+
+	background-color: #F8F0BC;
+}
+
+#list_title
+{
+	width : 450px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: left;
+	line-height : 25px;
+
+	background-color: #F8F0BC;
+}
+
+#list_titletext
+{
+	color: black;
+}
+
+#list_name
+{
+	width : 100px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 25px;
+
+	background-color: #F8F0BC;
+}
+
+#list_date
+{
+	width : 150px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 25px;
+
+	background-color: #F8F0BC;
+}
+
+#list_readcount
+{
+	width : 120px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: center;
+	line-height : 25px;
+
+	background-color: #F8F0BC;
+}
+
+#nowpage
+{
+	width : 1048px;
+	height: 30px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	font-size : 20px;
+	color : #880015;
+	text-align: center;
+	line-height : 30px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+#listpageno
+{
+	width : 1048px;
+	height: 40px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #880015;
+
+	font-size : 25px;
+	color : #880015;
+	text-align: left;
+	line-height : 50px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: white;
+}
+
+#listbuttonsize
+{
+	width : 35px;
+	height: 25px;
+
+	border-color : #880015;
+
+	font-size : 20px;
+	color : #880015;
+	text-align: center;
+	line-height : 20px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: white;
+}
+
+#pagebuttonsize
+{
+	width : 55px;
+	height: 25px;
+
+	border-color : #880015;
+
+	font-size : 20px;
+	color : white;
+	text-align: center;
+	line-height : 20px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
+
+#downbutton
+{
+	width : 994px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: right;
+}
+
+#search
+{
+	width : 994px;
+	height: 35px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	text-align: right;
+}
+
+#searchtype
+{
+	width : 100px;
+	height: 30px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #880015;
+
+	font-size : 25px;
+	color : #880015;
+	text-align: center;
+	line-height : 25px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: white;
+}
+
+#searchtext
+{
+	width : 200px;
+	height: 25px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #880015;
+
+	font-size : 25px;
+	color : black;
+	text-align: letf;
+	line-height : 20px;
+
+	background-color: white;
+}
+
+#searchbutton
+{
+	width : 100px;
+	height: 30px;
+	margin : 0;
+	margin-left : auto;
+	margin-right : auto;
+
+	border-color : #880015;
+
+	font-size : 25px;
+	color : white;
+	text-align: center;
+	line-height : 25px;
+
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Nanum Pen Script', cursive;
+
+	background-color: #880015;
+}
